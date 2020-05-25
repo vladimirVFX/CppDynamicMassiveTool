@@ -1,0 +1,2 @@
+# CppDynamicMassiveTool
+# Создание динамического массива
